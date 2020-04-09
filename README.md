@@ -6,7 +6,7 @@ A description of this package.
 
 ## Author
 
-AUTHOR_NAME, AUTHOR_EMAIL
+twitter : [@YuTsungYu](https://twitter.com/YuTsungYu) 
 
 ## License
 
